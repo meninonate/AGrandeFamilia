@@ -1,6 +1,9 @@
 # AGrandeFamilia
 Aula 03/09 de Prática de Programação Web - Faculdade Municipal de Palhoça. Criação site da Grande Família (2001)
 ----------------------------------------------------------------------------------------------------------------
+
+Dupla: Nathan de Souza e Guilherme de Melo
+
 Tags Utilizadas
 h1, h2, h3
 p
